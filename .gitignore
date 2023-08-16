@@ -33,7 +33,6 @@ gradle-app.setting
 .mca
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
