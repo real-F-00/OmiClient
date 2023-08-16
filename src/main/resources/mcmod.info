@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OmiClient",
+  "name": "OmiClient",
+  "description": "OmiClient by Omi#5555",
+  "version": "b2",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Omi"],
+  "credits": "OmiClient",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
